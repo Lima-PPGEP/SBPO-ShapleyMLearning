@@ -1,0 +1,158 @@
+﻿Cidade_UF,Bairro,Taxa Desocupação Cidade,PIB Per Capita,Preço m2
+São Paulo - SP,Itaim Bibi,9.0,60750,15564
+São Paulo - SP,Pinheiros,9.0,60750,14898
+São Paulo - SP,Jardins,9.0,60750,13896
+São Paulo - SP,Moema,9.0,60750,13442
+São Paulo - SP,Vila Mariana,9.0,60750,12116
+São Paulo - SP,Paraíso,9.0,60750,11560
+São Paulo - SP,Perdizes,9.0,60750,11186
+São Paulo - SP,Bela Vista,9.0,60750,10428
+São Paulo - SP,Santana,9.0,60750,7764
+São Paulo - SP,Vila Andrade,9.0,60750,7110
+Rio de Janeiro - RJ,Leblon,9.8,49094,21744
+Rio de Janeiro - RJ,Ipanema,9.8,49094,20314
+Rio de Janeiro - RJ,Lagoa,9.8,49094,16691
+Rio de Janeiro - RJ,Botafogo,9.8,49094,12938
+Rio de Janeiro - RJ,Barra da Tijuca,9.8,49094,11851
+Rio de Janeiro - RJ,Copacana,9.8,49094,11282
+Rio de Janeiro - RJ,Flamengo,9.8,49094,11141
+Rio de Janeiro - RJ,Laranjeiras,9.8,49094,10190
+Rio de Janeiro - RJ,Recreio dos Bandeirantes,9.8,49094,7184
+Rio de Janeiro - RJ,Tijuca,9.8,49094,6909
+Belo Horizonte - MG,Savassi,8.6,38670,13148
+Belo Horizonte - MG,Santo Agostinho,8.6,38670,12905
+Belo Horizonte - MG,Lourdes,8.6,38670,12416
+Belo Horizonte - MG,Funcionarios,8.6,38670,11956
+Belo Horizonte - MG,Belvedere,8.6,38670,10969
+Belo Horizonte - MG,Sion,8.6,38670,8672
+Belo Horizonte - MG,Serra,8.6,38670,8136
+Belo Horizonte - MG,Santo Antonio,8.6,38670,6830
+Belo Horizonte - MG,Buritis,8.6,38670,6819
+Belo Horizonte - MG,Gutierrez,8.6,38670,6767
+Brasilia - DF,Setor Sudoeste,10.9,87016,11185
+Brasilia - DF,Asa Norte,10.9,87016,10139
+Brasilia - DF,Asa Sul,10.9,87016,8885
+Brasilia - DF,Aguas Claras,10.9,87016,8409
+Brasilia - DF,Lago Norte,10.9,87016,8370
+Brasilia - DF,Taguatinga Sul,10.9,87016,6621
+Brasilia - DF,Guara Norte,10.9,87016,6006
+Brasilia - DF,Gama,10.9,87016,5152
+Brasilia - DF,Tuguatinga Norte,10.9,87016,4768
+Brasilia - DF,Ceilandia Sul,10.9,87016,4107
+Salvador - BA,Barra,17.9,20417,7895
+Salvador - BA,Caminho das Arvores,17.9,20417,7257
+Salvador - BA,Ondina,17.9,20417,6802
+Salvador - BA,Pernambues,17.9,20417,6456
+Salvador - BA,Rio Vermelho,17.9,20417,5445
+Salvador - BA,Itaigara,17.9,20417,5943
+Salvador - BA,Pituba,17.9,20417,5861
+Salvador - BA,Graça,17.9,20417,5860
+Salvador - BA,Imbui,17.9,20417,5768
+Salvador - BA,Brotas,17.9,20417,5293
+Fortaleza - CE,Meireles,8.1,24254,9115
+Fortaleza - CE,Engenheiro Luciano Cavalcante,8.1,24254,8051
+Fortaleza - CE,Manuel Dias Branco,8.1,24254,7730
+Fortaleza - CE,De Lourdes,8.1,24254,7365
+Fortaleza - CE,Aldeota,8.1,24254,7208
+Fortaleza - CE,Dinonisio Torres,8.1,24254,7068
+Fortaleza - CE,Praia do Futuro II,8.1,24254,6216
+Fortaleza - CE,Joaquim Tavora,8.1,24254,5525
+Fortaleza - CE,Fatima,8.1,24254,6465
+Fortaleza - CE,Papicu,8.1,24254,4752
+Recife - PE,Parnamirim,14.7,30428,7977
+Recife - PE,Boa Viagem,14.7,30428,7526
+Recife - PE,Madalena,14.7,30428,7337
+Recife - PE,Tamarineira,14.7,30428,7030
+Recife - PE,Casa Amarela,14.7,30428,6866
+Recife - PE,Graças,14.7,30428,6386
+Recife - PE,Espinheiro,14.7,30428,6042
+Recife - PE,Derby,14.7,30428,5970
+Recife - PE,Imbiribeira,14.7,30428,5933
+Recife - PE,Cordeiro,14.7,30428,4543
+Porto Alegre - RS,Montserrat,6.9,51117,9752
+Porto Alegre - RS,Bela Vista,6.9,51117,9170
+Porto Alegre - RS,Petropolis,6.9,51117,8585
+Porto Alegre - RS,Rio Branco,6.9,51117,8444
+Porto Alegre - RS,Moinhos de Vento,6.9,51117,8342
+Porto Alegre - RS,Praia de Belas,6.9,51117,7769
+Porto Alegre - RS,Menino Deus,6.9,51117,7190
+Porto Alegre - RS,Centro Histórico,6.9,51117,4913
+Porto Alegre - RS,Santa Tereza,6.9,51117,4643
+Porto Alegre - RS,Nonoai,6.9,51117,4078
+Curitiba - PR,Batel,6.1,45318,11685
+Curitiba - PR,Bigorrilho,6.1,45318,10893
+Curitiba - PR,Cabral,6.1,45318,9845
+Curitiba - PR,Ahu,6.1,45318,9618
+Curitiba - PR,Juveve,6.1,45318,9612
+Curitiba - PR,Agua Verde,6.1,45318,8587
+Curitiba - PR,Centro,6.1,45318,7935
+Curitiba - PR,Portao,6.1,45318,7098
+Curitiba - PR,Campo Comprido,6.1,45318,6389
+Curitiba - PR,Cidade Industrial de Curitiba,6.1,45318,5980
+Florianópolis - SC,Agronomica,5.6,41885,12230
+Florianópolis - SC,Centro,5.6,41885,10013
+Florianópolis - SC,Itacorubi,5.6,41885,9566
+Florianópolis - SC,Corrego Grande,5.6,41885,9410
+Florianópolis - SC,Trindade,5.6,41885,9009
+Florianópolis - SC,Saco dos Limões,5.6,41885,7972
+Florianópolis - SC,Estreito,5.6,41885,7846
+Florianópolis - SC,Coqueiros,5.6,41885,7607
+Florianópolis - SC,Ingleses do Rio Vermelho,5.6,41885,6872
+Florianópolis - SC,Capoeiras,5.6,41885,5993
+Vitoria - ES,Mata da Praia,7.9,69628,12345
+Vitoria - ES,Enseada do Sua,7.9,69628,12189
+Vitoria - ES,Santa Luiza,7.9,69628,11039
+Vitoria - ES,Barro Vermelho,7.9,69628,11013
+Vitoria - ES,Praia do Canto,7.9,69628,10828
+Vitoria - ES,Santa Lucia,7.9,69628,8186
+Vitoria - ES,Jardim Camburi,7.9,69628,7925
+Vitoria - ES,Jardim da Penha,7.9,69628,7857
+Vitoria - ES,Bento Ferreira,7.9,69628,7556
+Vitoria - ES,Centro,7.9,69628,2556
+Goiânia - GO,Marista,4.2,33827,8278
+Goiânia - GO,Jardim Goias,4.2,33827,7563
+Goiânia - GO,Bueno,4.2,33827,7229
+Goiânia - GO,Sul,4.2,33827,7026
+Goiânia - GO,Oeste,4.2,33827,6440
+Goiânia - GO,Jardim das Esmeraldas,4.2,33827,5537
+Goiânia - GO,Jardim América,4.2,33827,5307
+Goiânia - GO,Sudoeste,4.2,33827,4717
+Goiânia - GO,Nova Suíça,4.2,33827,4311
+Goiânia - GO,Central,4.2,33827,3551
+João Pessoa - PB,Cabo Branco,11.5,25402,8321
+João Pessoa - PB,Altiplano Cabo Branco,11.5,25402,7112
+João Pessoa - PB,Jardim Oceania,11.5,25402,6313
+João Pessoa - PB,Bisamar,11.5,25402,6146
+João Pessoa - PB,Manaira,11.5,25402,5618
+João Pessoa - PB,Portal do Sol,11.5,25402,5592
+João Pessoa - PB,Bessa,11.5,25402,4970
+João Pessoa - PB,Aeroclube,11.5,25402,4801
+João Pessoa - PB,Bancarios,11.5,25402,3837
+João Pessoa - PB,Jardim Cidade Universitária,11.5,25402,3550
+Campo Grande - MS,Prosa,5.1,33244,7014
+Campo Grande - MS,Centro,5.1,33244,4830
+Campo Grande - MS,Bandeira,5.1,33244,4334
+Campo Grande - MS,Segredo,5.1,33244,4024
+Campo Grande - MS,Lagoa,5.1,33244,3498
+Campo Grande - MS,Imbirussu,5.1,33244,2878
+Campo Grande - MS,Anhanduizinho,5.1,33244,2871
+Maceió - AL,Jacarecica,12.0,22307,8566
+Maceió - AL,Pajuçara,12.0,22307,7877
+Maceió - AL,Ponta Verde,12.0,22307,7543
+Maceió - AL,Jatiuca,12.0,22307,7363
+Maceió - AL,Mangabeiras,12.0,22307,6578
+Maceió - AL,Cruz das Almas,12.0,22307,6539
+Maceió - AL,Poço,12.0,22307,5895
+Maceió - AL,Barro Duro,12.0,22307,5074
+Maceió - AL,Gruta de Lourdes,12.0,22307,4900
+Maceió - AL,Serraria,12.0,22307,3434
+Manaus - AM,Ponta Negra,11.8,41346,7179
+Manaus - AM,Dom Pedro I,11.8,41346,6423
+Manaus - AM,Adrianopolis,11.8,41346,6281
+Manaus - AM,Nossa Senhora das Graças,11.8,41346,6046
+Manaus - AM,Vila da Prata,11.8,41346,6010
+Manaus - AM,Flores,11.8,41346,5071
+Manaus - AM,Parque 10 de Novembro,11.8,41346,5032
+Manaus - AM,Alvorada,11.8,41346,4937
+Manaus - AM,Aleixo,11.8,41346,4863
+Manaus - AM,Centro,11.8,41346,3298
